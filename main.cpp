@@ -15,8 +15,9 @@ int main()
 				window.close();
 		}
 
-		
-		//c
+        window.clear();
+        window.draw(shape);
+        window.display();
 	}
 
 	return 0;
