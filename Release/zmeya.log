@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\user\source\repos\zmeya\zmeya\main.cpp(49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\zmeya\zmeya\main.cpp(53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  4 of 7 functions (57.1%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  zmeya.vcxproj -> C:\Users\User\source\repos\zmeya\Release\zmeya.exe
